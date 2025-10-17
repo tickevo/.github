@@ -1,21 +1,29 @@
-# 🎟️ Tickevo — Smart Ticketing powered by Blockchain
+# 🎟️ Tickevo — Smart Ticketing for a Transparent Future
 
-Building the next generation of ticketing.  
-Empowering **organizers** and **fans** through transparent, secure, and traceable ticket sales — powered by **smart contracts**.
+**Tickevo** is redefining the global ticketing industry through **blockchain-powered ownership** and **official resale markets** — eliminating fraud while unlocking new revenue streams for organizers and fans.
 
 ### 🌍 Our Ecosystem
 
-- 🧠 **Organizer App** – Create and manage events, control royalties, and track every sale.  
-- 💼 **User Wallet App** – Store, use, and resell tickets safely in a modern Web2-like experience.  
-- 🖥️ **Web Platform** – Complete dashboard for event creation, analytics, and resale management.
+- 📱 **Tickevo Wallet (iOS & Android)**  
+  The app for attendees. Manage and use your tickets, generate QR codes for event access, and resell tickets safely within official resale markets — all in one place.  
 
-### 💫 Why Tickevo
+- 🎫 **Tickevo Scanner (iOS & Android)**  
+  The app for event organizers and staff. Validate entries, track check-ins in real time, and manage attendees directly on-site with full transparency.  
 
-✅ Official resale markets — no scams, no fraud.  
-💰 Royalties for every resale.  
-🔗 Full transparency and ownership via blockchain.  
-⚡ Seamless UX for both organizers and attendees.
+- 💻 **Web Platform (tickevo.com)**  
+  The command center for event organizers. Create and manage events, define ticket types, set resale royalties and fees, and control both **primary and secondary markets** with full visibility over every sale.  
 
-> Taking ticketing to the next era — **Web3 simplicity, Web2 usability.**
+### 💡 Why Tickevo
+
+✅ **Official resale markets** — verified, traceable, and secure.  
+💰 **Automatic royalties** — organizers earn on every resale.  
+🔗 **Blockchain-backed transparency** — every transaction is verifiable.  
+⚡ **Frictionless UX** — Web3 technology with Web2 simplicity.  
+
+### 🚀 Our Vision
+
+We’re building the **global standard for smart ticketing**, empowering event creators and fans to own, trade, and experience tickets with **trust and control** — from music festivals to sports events and beyond.
+
+> **Tickevo: Smart Tickets. Real Ownership.**
 
 🌐 [tickevo.com](https://tickevo.com)
