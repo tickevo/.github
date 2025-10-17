@@ -10,7 +10,7 @@
 - 🎫 **Tickevo Scanner (iOS & Android)**  
   The app for event organizers and staff. Validate entries, track check-ins in real time, and manage attendees directly on-site with full transparency.  
 
-- 💻 **Web Platform (tickevo.com)**  
+- 💻 **Web Platform ([tickevo.com](https://tickevo.com))**  
   The command center for event organizers. Create and manage events, define ticket types, set resale royalties and fees, and control both **primary and secondary markets** with full visibility over every sale.  
 
 ### 💡 Why Tickevo
