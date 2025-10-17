@@ -1,4 +1,4 @@
-# 🎟️ Tickevo — Smart Ticketing for a Transparent Future
+# 🎟️ Tickevo — Smart Ticketing porwered by blockchain technology
 
 **Tickevo** is redefining the global ticketing industry through **blockchain-powered ownership** and **official resale markets** — eliminating fraud while unlocking new revenue streams for organizers and fans.
 
